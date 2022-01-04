@@ -53,4 +53,18 @@ h1{
     border-radius: 10px;
     box-shadow: 10px 10px 40px gray;
 }
+#stack-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(173, 136, 93), rgb(233, 194, 22));
+    border-image-slice: 1;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
+
 
